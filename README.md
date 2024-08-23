@@ -9,3 +9,5 @@ In order to get this to run you need:
 3. Install numpy using ```pip install numpy```
 4. CLone https://github.com/Icewater1337/graph-matching-core  and install using
 ``` pip install -e . ``` inside the cloned folder (pay attention that the venv is active)
+## Usage 
+Examples of how to use can be found in the test/builders folder. 
